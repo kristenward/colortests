@@ -1,0 +1,4 @@
+colortests
+==========
+
+Testing color usages
